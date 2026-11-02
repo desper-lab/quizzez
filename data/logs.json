@@ -1,0 +1,28 @@
+[
+  {
+    "id": "log_1793587740073_ef5675",
+    "timestamp": "2026-11-02T02:49:00.073Z",
+    "level": "INFO",
+    "action": "SUBMISSION_CREATED",
+    "message": "Quiz completed by \"Jordan Smith\" (Creator)",
+    "details": {
+      "submissionId": "sub_1793587740072_4d6ab0",
+      "name": "Jordan Smith",
+      "primaryArchetype": "Creator",
+      "scoreSummary": {
+        "Thinker": 0,
+        "Creator": 10,
+        "Leader": 0,
+        "Supporter": 0
+      },
+      "clientIp": "127.0.0***"
+    }
+  },
+  {
+    "id": "log_1793587728806_df9b2d",
+    "timestamp": "2026-11-02T02:48:48.807Z",
+    "level": "INFO",
+    "action": "SYSTEM_INITIALIZED",
+    "message": "Storage seeded with 3 representative initial submissions"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Personality Quiz & Admin Results",
+  "description": "A clean 10-question personality assessment with real-time JSON-backed admin dashboard and troubleshooting logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

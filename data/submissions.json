@@ -1,0 +1,126 @@
+[
+  {
+    "id": "sub_1793587740072_4d6ab0",
+    "name": "Jordan Smith",
+    "createdAt": "2026-11-02T02:49:00.073Z",
+    "primaryArchetype": "Creator",
+    "secondaryArchetype": "Thinker",
+    "scores": {
+      "Thinker": 0,
+      "Creator": 10,
+      "Leader": 0,
+      "Supporter": 0
+    },
+    "percentageScores": {
+      "Thinker": 0,
+      "Creator": 100,
+      "Leader": 0,
+      "Supporter": 0
+    },
+    "answers": {
+      "1": "b",
+      "2": "b",
+      "3": "b",
+      "4": "b",
+      "5": "b",
+      "6": "b",
+      "7": "b",
+      "8": "b",
+      "9": "b",
+      "10": "b"
+    }
+  },
+  {
+    "id": "sub_seed_01",
+    "name": "Elena Rostova",
+    "createdAt": "2026-11-01T21:48:48.806Z",
+    "primaryArchetype": "Thinker",
+    "secondaryArchetype": "Leader",
+    "scores": {
+      "Thinker": 6,
+      "Creator": 2,
+      "Leader": 2,
+      "Supporter": 0
+    },
+    "percentageScores": {
+      "Thinker": 60,
+      "Creator": 20,
+      "Leader": 20,
+      "Supporter": 0
+    },
+    "answers": {
+      "1": "a",
+      "2": "a",
+      "3": "a",
+      "4": "a",
+      "5": "a",
+      "6": "a",
+      "7": "a",
+      "8": "c",
+      "9": "c",
+      "10": "b"
+    }
+  },
+  {
+    "id": "sub_seed_02",
+    "name": "Marcus Chen",
+    "createdAt": "2026-11-02T00:48:48.806Z",
+    "primaryArchetype": "Leader",
+    "secondaryArchetype": "Creator",
+    "scores": {
+      "Thinker": 1,
+      "Creator": 3,
+      "Leader": 5,
+      "Supporter": 1
+    },
+    "percentageScores": {
+      "Thinker": 10,
+      "Creator": 30,
+      "Leader": 50,
+      "Supporter": 10
+    },
+    "answers": {
+      "1": "c",
+      "2": "c",
+      "3": "c",
+      "4": "c",
+      "5": "c",
+      "6": "c",
+      "7": "b",
+      "8": "b",
+      "9": "b",
+      "10": "d"
+    }
+  },
+  {
+    "id": "sub_seed_03",
+    "name": "Sarah Jenkins",
+    "createdAt": "2026-11-02T01:48:48.806Z",
+    "primaryArchetype": "Supporter",
+    "secondaryArchetype": "Creator",
+    "scores": {
+      "Thinker": 1,
+      "Creator": 3,
+      "Leader": 1,
+      "Supporter": 5
+    },
+    "percentageScores": {
+      "Thinker": 10,
+      "Creator": 30,
+      "Leader": 10,
+      "Supporter": 50
+    },
+    "answers": {
+      "1": "d",
+      "2": "d",
+      "3": "d",
+      "4": "d",
+      "5": "d",
+      "6": "b",
+      "7": "b",
+      "8": "b",
+      "9": "a",
+      "10": "d"
+    }
+  }
+]
