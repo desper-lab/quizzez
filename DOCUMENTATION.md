@@ -75,3 +75,11 @@ A lightweight, modular, and privacy-conscious personality quiz web application. 
   - Click the **CSV** or **JSON** download buttons above the submissions table to export records for external analysis.
 - **Database Reset**:
   - Click **Reset Data** in the top bar and enter the admin PIN to wipe test submissions safely.
+
+---
+
+## 6. Build & Deployment Notes
+
+- **Package Resolution (Vercel / Strict CI)**:
+  - Redundant root `esbuild` lock (`^0.25.0`) removed to prevent peer dependency conflicts with `vite@^8.3.0` (which manages `esbuild@^0.28.0` internally).
+  - Clean `npm install` and `npm run build` verified for zero-conflict hermetic deployments.
