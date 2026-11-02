@@ -82,4 +82,5 @@ A lightweight, modular, and privacy-conscious personality quiz web application. 
 
 - **Package Resolution (Vercel / Strict CI)**:
   - Redundant root `esbuild` lock (`^0.25.0`) removed to prevent peer dependency conflicts with `vite@^8.3.0` (which manages `esbuild@^0.28.0` internally).
+  - Added `.npmrc` with `legacy-peer-deps=true` so CI environments (like Vercel) automatically bypass strict peer dependency trees without manual flags.
   - Clean `npm install` and `npm run build` verified for zero-conflict hermetic deployments.
